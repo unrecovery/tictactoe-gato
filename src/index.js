@@ -67,6 +67,9 @@ const Game = () => {
     <div className="game">
       Tic Tac Toe (Gato)
       <Board />
+      <div className="myself">
+        Powered By: Kevin Gabriel Rodriguez - UNRECOVERY
+      </div>
     </div>
   );
 };
